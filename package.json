@@ -1,0 +1,22 @@
+{
+  "name": "location-datetime",
+  "version": "1.0.0",
+  "description": "An NPM package to get the current date and time based on a given location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "location",
+    "timezone",
+    "datetime"
+  ],
+  "author": "Ojal Sharnagat",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "luxon": "^3.5.0"
+  }
+}
